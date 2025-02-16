@@ -412,7 +412,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-image: url("/image/Asset\ 1@4x-8\ 1.png");
+  background-image: url("/image/1.png");
   padding: 91px 110px 0;
 }
 
@@ -532,6 +532,7 @@ a {
 }
 
 .faq-item {
+  margin: 0 4px;
   width: 359px;
   height: 246px;
   padding: 28px 24px 0;
@@ -582,6 +583,7 @@ a {
     padding-top: 36px;
   }
   .faq-item {
+    margin: 0;
     width: 359px;
     height: 246px;
     padding: 28px 24px 0;
