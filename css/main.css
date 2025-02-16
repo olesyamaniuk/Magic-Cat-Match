@@ -490,11 +490,6 @@ a {
   .why-item {
     width: 533px;
     height: 370px;
-
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-image: url("/image/Asset\ 1@4x-8\ 1.png");
     padding: 91px 110px 0;
   }
 
